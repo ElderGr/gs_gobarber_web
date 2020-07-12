@@ -1,4 +1,4 @@
-# Desafio GoStack: Gofinances
+# Semana 3 GoStack: Frontend Gobarber
 Projeto desenvolvido durante a Semana 3 do bootcamp GoStack, construindo a aplicação Gobarber e explorando conceitos de ReactJS como:
 - [x] React Hooks
 - [x] Styled-components
